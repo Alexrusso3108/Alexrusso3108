@@ -1,128 +1,76 @@
-# Hi, I'm Aakash (Alexrusso3108) 👋
+# Aakash (Alexrusso3108) — AR · ML · Interactive Experiences 👋
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira%20Code\&size=24\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=800\&height=50\&lines=Software+Developer+%7C+AR+Enthusiast+%7C+ML+Practitioner)
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='220'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%2300bfff'/><stop offset='1' stop-color='%2370f0ff'/></linearGradient><filter id='f' x='-20%' y='-20%' width='140%' height='140%'><feGaussianBlur stdDeviation='10' result='b'/><feComposite in='SourceGraphic' in2='b' operator='over'/></filter></defs><rect rx='18' width='1200' height='220' fill='url(%23g)' opacity='0.12'/><g font-family='Inter, system-ui, -apple-system, Roboto, Helvetica, Arial' font-weight='700' fill='%23ffffff' font-size='44'><text x='60' y='80'>Aakash —</text><text x='60' y='130' font-size='36' font-weight='600' fill='%23e7fbff'>AR · ML · Computer Vision</text></g><g font-family='Inter, system-ui, -apple-system, Roboto, Helvetica, Arial' font-size='18' fill='%23dff9ff' opacity='0.9'><text x='60' y='170'>Interactive 3D demos • WebAR • Assistive apps</text></g><g transform='translate(980,40)'><rect x='0' y='0' width='180' height='140' rx='12' fill='%23001216' opacity='0.18'/><text x='12' y='48' font-family='Inter' font-size='13' fill='%23cfeefc'>Live 3D Gallery</text><a href='https://3d-showcase-ten.vercel.app/'><text x='12' y='86' font-family='Inter' font-size='15' fill='%23ffffff' font-weight='700'>Open demo →</text></a></g></svg>" alt="fancy-banner" style="max-width:100%;border-radius:12px;margin-bottom:18px;" />
+
+---
+
+Hi — I’m Aakash. I build playful, useful things that sit at the intersection of AR, computer vision and web engineering. I prefer shipping small end-to-end projects that people can try in a browser — not just demos on a laptop.
+
+I work on accessible AR tutors, memory games, and vision-powered utilities. I also make short films when I need to think in story first.
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexrusso3108&show_icons=true&theme=radical" alt="github-stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrusso3108&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 ---
 
-## 🔭 About me
+## Quick snapshot
 
-I am a Bachelor of Engineering student in Computer Science (CSE) who loves building practical applications that mix **AR**, **Machine Learning**, and **Web** technologies. I focus on creating accessible, real-world projects — from assistive AR apps to computer vision systems.
-
-* 🎓 BE — Computer Science & Engineering
-* 💡 Projects: AR Sign Language Tutor, AR Memory Game for Alzheimer’s patients, Garbage Classification using CV, Smart Hospital Management System
-* 🧠 Areas: Computer Vision · AR / WebAR · Machine Learning · Full‑stack Development
-* ⚡ Fun fact: I made a short film titled **BROTHERHOOD** — filmmaking fuels my creative problem solving.
+* 🔭 Currently building: **AR Sign Language Tutor**, **AR Memory Game (Alzheimer’s aid)**
+* 🌱 Learning more production-grade ML deployment & WebAR UX
+* 🧰 Key skills: Python · Java · JavaScript · React · TensorFlow · OpenCV · Docker
 
 ---
 
-## 🛠️ Technologies & Tools
+## 3D Showcase (preview)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+I made a tiny interactive gallery so anyone visiting my profile can click through and play with 3D models in the browser.
+
+**Live demo (open to interact):** [https://3d-showcase-ten.vercel.app/](https://3d-showcase-ten.vercel.app/)
+
+Below are lightweight preview images — click any to jump straight into the live interactive page.
+
+<p align="center">
+  <a href="https://3d-showcase-ten.vercel.app/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/google/model-viewer/main/packages/shared-assets/models/astronaut.gif" alt="Astronaut preview" width="340" style="margin:6px;border-radius:8px;box-shadow:0 8px 24px rgba(2,6,23,0.6)" />
+  </a>
+  <a href="https://3d-showcase-ten.vercel.app/" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/screenshot/screenshot.png" alt="Damaged Helmet preview" width="340" style="margin:6px;border-radius:8px;box-shadow:0 8px 24px rgba(2,6,23,0.6)" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Projects — short and human
 
-> A snapshot of projects I’ve built — check their repos for demos and code.
+**AR Sign Language Tutor** — A web AR tutor that recognizes hand signs and gives real-time feedback. Built with Mediapipe and TF.js so learners can practice without installing heavy software.
 
-### 1. **AR Sign Language Tutor**
+**AR Memory Game (for Alzheimer’s)** — Browser-based memory challenges with 3D overlays and simple UX designed for older users.
 
-* Tech: WebAR / Cursor (Vibe Coding), Mediapipe, TensorFlow.js
-* Description: An interactive tutor that recognizes hand gestures and provides real-time guidance for sign language learners.
-
-### 2. **AR Memory Game for Alzheimer’s**
-
-* Tech: WebAR, Three.js, Camera-based AR overlays
-* Description: A browser-based AR memory game that displays 3D models and engages users with memory challenges.
-
-### 3. **Garbage Classification (Image Upload)**
-
-* Tech: Python, TensorFlow/Keras, OpenCV
-* Description: Upload a photo of waste and the model suggests the correct color-coded bin.
-
-### 4. **Smart Hospital Management System**
-
-* Tech: MERN + 3D home screen, Voice-enabled chatbot, Razorpay integration
-* Description: Complete hospital system for appointments, payments, and consultations.
-
-### 5. **BROTHERHOOD (Short Film)**
-
-* Role: Writer / Director / Producer
-* Notes: A short film exploring moral complexity — demonstrates storytelling and project leadership skills.
+**Garbage Classifier** — Upload a photo and the app suggests the right color-coded bin using a light CV model (TensorFlow + OpenCV).
 
 ---
 
-## 📈 GitHub Animations & Widgets (what's used above)
+## Want the previews hosted inside this repo?
 
-* **Typing header**: `readme-typing-svg` — animated typing intro.
-* **GitHub Stats**: `github-readme-stats` — dynamic activity + top languages.
-* **Badges**: shields.io for clean technology badges.
+If you want the GIFs and thumbnails to always load from your GitHub, create an `assets/` folder in this repo and upload the preview images. Then replace the preview links above with:
 
-> Tip: Add a GIF demo for each project (hosted in repo `assets/` or as releases) and embed it under each project for extra visual impact.
-
----
-
-## 🤝 Open to Collaborate
-
-I’m open to internships, mentorship, and collaboration on AR / CV / ML projects. If you have an idea or want to work together — let’s build it!
-
----
-
-## 📫 How to reach me
-
-* GitHub: [Alexrusso3108](https://github.com/Alexrusso3108)
-* Email: `your.email@example.com` (replace with your email)
-* LinkedIn: `https://www.linkedin.com/in/your-linkedin` (replace with your profile)
-
----
-
-## ✨ Extra README toys (optional snippets)
-
-**Add a GIF hero (example)**
-
-```markdown
-![project-demo](https://raw.githubusercontent.com/Alexrusso3108/REPO_NAME/main/assets/demo.gif)
+```
+https://raw.githubusercontent.com/Alexrusso3108/REPO_NAME/main/assets/astronaut.gif
 ```
 
-**Add a Contributors or Sponsors section**
-
-```markdown
-## Sponsors
-[![Sponsor][sponsor-img]][sponsor-link]
-```
-
-**Add GitHub Actions workflow status**
-
-```markdown
-[![CI](https://github.com/Alexrusso3108/REPO_NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/Alexrusso3108/REPO_NAME/actions)
-```
+(Replace `REPO_NAME` with the repo that holds your `assets/` folder.)
 
 ---
 
-## 👍 Want it customized?
+## Contact
 
-If you want, I can:
-
-* Insert links to **specific repositories** from your account and demo GIFs.
-* Generate a polished project gallery with GIFs/screenshots and short readme badges per repo.
-* Create a LinkedIn & Email contact card and a downloadable resume link.
+* GitHub: [https://github.com/Alexrusso3108](https://github.com/Alexrusso3108)
+* Email: [your.email@example.com](mailto:your.email@example.com) (replace with one you use)
+* LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin) (replace)
 
 ---
 
-<p align="center">Made with ❤️ — keep building and shipping 🚀</p>
+Thanks for stopping by — try the live demo and tell me what you think. If you want, I’ll generate polished rotating GIFs of the models and add them to your repo so the README previews are reliably hosted from your account.
