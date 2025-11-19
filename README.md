@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aakash%20Russo&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AR%20Engineer%20|%20Computer%20Vision%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aakash%20Singh&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AR%20Engineer%20|%20Computer%20Vision%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
 
 </div>
 
@@ -177,7 +177,11 @@ Currently developing AR-based assistive technologies including a sign language t
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexrusso3108&custom_title=Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area_color=667eea&area=true&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexrusso3108/Alexrusso3108/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexrusso3108/Alexrusso3108/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alexrusso3108/Alexrusso3108/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
